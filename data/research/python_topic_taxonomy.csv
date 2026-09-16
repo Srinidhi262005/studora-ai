@@ -1,0 +1,15 @@
+topic_id,canonical_topic,canonical_subtopic,difficulty,description,source_status
+PY-001,Python fundamentals,Interpreter and environment,UNKNOWN,"The Python Tutorial includes using the interpreter and its environment.",VERIFIED
+PY-002,Python data types,Numbers and text,UNKNOWN,"The Python Tutorial includes numbers and text in its informal introduction.",VERIFIED
+PY-003,Control flow,Conditionals and loops,UNKNOWN,"The Python Tutorial includes if statements, for statements, range, break, continue, and related control-flow material.",VERIFIED
+PY-004,Functions,Defining functions and parameters,UNKNOWN,"The Python Tutorial includes defining functions, argument lists, lambda expressions, and annotations.",VERIFIED
+PY-005,Data structures,Lists tuples sets and dictionaries,UNKNOWN,"The Python Tutorial explicitly lists lists, tuples, sets, and dictionaries.",VERIFIED
+PY-006,Modules and packages,Importing modules and packages,UNKNOWN,"The Python Tutorial includes modules, standard modules, and packages.",VERIFIED
+PY-007,Input and output,Files and structured data,UNKNOWN,"The Python Tutorial includes reading and writing files and saving structured data with json.",VERIFIED
+PY-008,Exception handling,Errors and exceptions,UNKNOWN,"The Python Tutorial includes syntax errors, exceptions, handling, chaining, and cleanup actions.",VERIFIED
+PY-009,Object-oriented programming,Classes and inheritance,UNKNOWN,"The Python Tutorial includes classes, class objects, inheritance, and class/instance variables.",VERIFIED
+PY-010,Iterators and generators,Iterators and generator expressions,UNKNOWN,"The Python Tutorial explicitly includes iterators and generators.",VERIFIED
+PY-011,Comprehensions,List comprehensions,UNKNOWN,"The Python Tutorial explicitly includes list comprehensions and nested list comprehensions.",VERIFIED
+PY-012,Regular expressions,String pattern matching,UNKNOWN,"The Python Tutorial's standard-library tour includes string pattern matching.",VERIFIED
+PY-013,Standard library,Operating system interface and internet access,UNKNOWN,"The Python Tutorial includes the operating-system interface and internet access in its standard-library tour.",VERIFIED
+PY-015,Virtual environments and packages,Creating virtual environments and managing packages,UNKNOWN,"The Python Tutorial includes virtual environments and package management.",VERIFIED

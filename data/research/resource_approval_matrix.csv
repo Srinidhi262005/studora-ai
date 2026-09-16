@@ -1,0 +1,10 @@
+source_type,allowed,reason,verification_required,notes
+OFFICIAL_UNIVERSITY,YES,"Preferred source for institution-specific curriculum and course material.",YES,"Verify institution ownership, curriculum relevance, exact URL, and any usage restrictions."
+OFFICIAL_INSTITUTE,YES,"Preferred source for institute curriculum and academic material.",YES,"Verify the institute page and course relevance separately."
+OFFICIAL_GOVERNMENT,YES,"Authoritative public source where directly relevant to the academic claim.",YES,"Record the issuing authority and exact source URL."
+NPTEL,YES,"Preferred educational provider for computing courses.",YES,"Verify provider page and license or permitted-use terms before copying or downloading."
+SWAYAM,YES,"Preferred educational provider for academic courses.",YES,"Verify provider page and course ownership and usage terms."
+OFFICIAL_DOCUMENTATION,YES,"Useful for technical concepts and canonical resource evidence.",YES,"Verify documentation ownership and license or permission statement."
+OPEN_EDUCATIONAL_RESOURCE,CONDITIONAL,"Allowed only when authorship and reuse permission are clear.",YES,"Use NEEDS_MANUAL_REVIEW when a free-access page does not state reuse rights."
+INSTITUTIONAL_NOTES,CONDITIONAL,"May be useful when institutionally published and permitted.",YES,"Do not ingest copied or anonymous notes; verify ownership and permission."
+UNKNOWN,NO,"Source ownership or provenance is unresolved.",YES,"Reject or hold for manual review; do not download."

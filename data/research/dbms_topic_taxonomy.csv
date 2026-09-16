@@ -1,0 +1,21 @@
+topic_id,canonical_topic,canonical_subtopic,difficulty,description,source_status
+DB-001,SQL,SQL language and syntax,UNKNOWN,"PostgreSQL documentation exposes SQL syntax and the SQL language sections.",VERIFIED
+DB-002,Data definition,DDL and data definition,UNKNOWN,"PostgreSQL documentation exposes data definition as a SQL-language area.",VERIFIED
+DB-003,Data manipulation,DML and queries,UNKNOWN,"PostgreSQL documentation exposes data manipulation and queries.",VERIFIED
+DB-004,Data types,PostgreSQL data types,UNKNOWN,"PostgreSQL documentation exposes data types as a SQL-language area.",VERIFIED
+DB-005,Functions and operators,SQL functions and operators,UNKNOWN,"PostgreSQL documentation exposes functions and operators.",VERIFIED
+DB-006,Indexes,Cluster primary secondary hash-based and tree-based indexing,UNKNOWN,"PostgreSQL documentation exposes indexes as a SQL-language area; JNTUH R25 lists cluster, primary, secondary, hash-based, and tree-based indexing.",VERIFIED
+DB-007,Concurrency control,Concurrency control and protocol families,UNKNOWN,"PostgreSQL documentation exposes concurrency control and MVCC; JNTUH R25 lists lock-based, timestamp-based, validation-based, and multiple-granularity protocols.",VERIFIED
+DB-008,Query processing,Query planning and execution,UNKNOWN,"PostgreSQL documentation exposes queries and performance tips; no university syllabus claim is made.",VERIFIED
+DB-009,Database administration,Backup and restore,UNKNOWN,"PostgreSQL documentation exposes backup and restore as a server-administration area.",VERIFIED
+DB-010,Database fundamentals,Database system applications and file systems versus DBMS,UNKNOWN,"JNTUH R25 CSE DBMS lists database system applications and file systems versus DBMS.",VERIFIED
+DB-011,DBMS architecture,Levels of abstraction and data independence,UNKNOWN,"JNTUH R25 CSE DBMS lists levels of abstraction, data independence, and DBMS structure.",VERIFIED
+DB-012,Data models,Relational model,UNKNOWN,"JNTUH R25 CSE DBMS lists data model and relational model.",VERIFIED
+DB-013,ER model,Entities attributes entity sets relationships and relationship sets,UNKNOWN,"JNTUH R25 CSE DBMS lists ER diagrams and the listed ER model features.",VERIFIED
+DB-014,Relational algebra,Relational algebra operations,UNKNOWN,"JNTUH R25 CSE DBMS lists relational algebra.",VERIFIED
+DB-015,Relational calculus,Tuple and domain relational calculus,UNKNOWN,"JNTUH R25 CSE DBMS lists tuple relational calculus and domain relational calculus.",VERIFIED
+DB-016,Integrity constraints,SQL and complex integrity constraints,UNKNOWN,"JNTUH R25 CSE DBMS lists integrity constraints, SQL constraints, and complex integrity constraints.",VERIFIED
+DB-017,Normalization,Functional dependencies and normal forms,UNKNOWN,"JNTUH R25 CSE DBMS lists functional dependencies, 1NF, 2NF, 3NF, BCNF, 4NF, and 5NF.",VERIFIED
+DB-018,Transactions,Transaction states and concurrent executions,UNKNOWN,"JNTUH R25 CSE DBMS lists transaction concept, transaction state, concurrent executions, serializability, recoverability, and isolation.",VERIFIED
+DB-020,Recovery,Log-based recovery and recovery with concurrent transactions,UNKNOWN,"JNTUH R25 CSE DBMS lists recovery, log-based recovery, and recovery with concurrent transactions.",VERIFIED
+DB-022,B+ trees,B+ tree indexing,UNKNOWN,"JNTUH R25 CSE DBMS lists B+ trees.",VERIFIED

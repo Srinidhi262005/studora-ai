@@ -1,0 +1,17 @@
+topic_id,canonical_topic,canonical_subtopic,difficulty,description,source_status
+OS-001,Operating systems,Virtualization,UNKNOWN,"OSTEP identifies virtualization as one of its three conceptual pieces.",VERIFIED
+OS-002,Processes,Process API and direct execution,UNKNOWN,"OSTEP lists processes, the Process API, and direct execution chapters.",VERIFIED
+OS-003,CPU scheduling,Scheduling policies,UNKNOWN,"OSTEP lists CPU Scheduling and related scheduling chapters.",VERIFIED
+OS-004,Memory management,Address spaces paging segmentation and swapping,UNKNOWN,"OSTEP lists address spaces, address translation, paging, swapping, and virtual-memory material; JNTUH R25 also lists contiguous allocation, paging, segmentation, segmentation with paging, and demand paging.",VERIFIED
+OS-005,Threads,Thread API,UNKNOWN,"OSTEP lists concurrency and threads and a Thread API chapter.",VERIFIED
+OS-006,Synchronization,Locks and semaphores,UNKNOWN,"OSTEP lists locks, condition variables, semaphores, and concurrency bugs.",VERIFIED
+OS-007,File systems,Files and directories,UNKNOWN,"OSTEP lists files and directories, file-system implementation, journaling, and related chapters.",VERIFIED
+OS-008,Storage and I/O,Hard disk drives and I/O devices,UNKNOWN,"OSTEP lists I/O devices, hard disk drives, SSDs, and storage chapters.",VERIFIED
+OS-009,Concurrency,Concurrency and distributed systems,UNKNOWN,"OSTEP identifies concurrency as a conceptual piece and lists distributed systems material.",VERIFIED
+OS-010,Persistence,Data integrity and protection,UNKNOWN,"OSTEP identifies persistence as a conceptual piece and lists data integrity and protection.",VERIFIED
+OS-011,Operating-system security,Authentication and access control,UNKNOWN,"OSTEP lists security, authentication, access control, and cryptography chapters.",VERIFIED
+OS-012,System calls,Process-management and file-system calls,UNKNOWN,"JNTUH R25 CSE Operating Systems lists system calls and specific file-system calls.",VERIFIED
+OS-013,Process states,Process concepts and operations,UNKNOWN,"JNTUH R25 CSE Operating Systems lists process concepts and process operations; process states are not separately claimed.",VERIFIED
+OS-014,Deadlocks,Characterization prevention avoidance detection and recovery,UNKNOWN,"JNTUH R25 CSE Operating Systems lists deadlocks, characterization, prevention, avoidance, detection, and recovery.",VERIFIED
+OS-015,Interprocess communication,Pipes FIFOs message queues and shared memory,UNKNOWN,"JNTUH R25 CSE Operating Systems lists IPC, pipes, FIFOs, message queues, and shared memory.",VERIFIED
+OS-017,Page replacement,Page-replacement algorithms,UNKNOWN,"JNTUH R25 CSE Operating Systems lists page replacement and page-replacement algorithms.",VERIFIED
