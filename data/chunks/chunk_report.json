@@ -1,0 +1,31 @@
+{
+  "chunking_strategy_version": "3.6.0",
+  "chunks_by_content_type": {
+    "code": 281,
+    "definition_list": 30,
+    "heading": 131,
+    "list": 20,
+    "p": 612,
+    "page_text": 120,
+    "table": 35
+  },
+  "chunks_by_subject": {
+    "Database Management Systems": 8,
+    "Operating Systems": 3,
+    "Python Programming": 17,
+    "UNKNOWN": 1201
+  },
+  "knowledge_records_with_multiple_chunks": 56,
+  "knowledge_records_with_single_chunk": 1114,
+  "maximum_chunk_characters": 1800,
+  "minimum_chunk_characters": 200,
+  "overlap_characters": 0,
+  "oversized_atomic_records": [
+    "KR-python-1c540be906c3a9b92792"
+  ],
+  "records_dropped": 0,
+  "source_content_loss_detected": false,
+  "total_chunks": 1229,
+  "total_knowledge_records": 1170,
+  "validation_status": "PASS"
+}
