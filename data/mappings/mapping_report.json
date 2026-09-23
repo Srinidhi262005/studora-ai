@@ -1,0 +1,27 @@
+{
+  "errors": [],
+  "institutions_represented": [
+    "Jawaharlal Nehru Technological University Hyderabad"
+  ],
+  "mapped_records": 21,
+  "mapping_status_counts": {
+    "MAPPED": 21,
+    "UNKNOWN": 1149
+  },
+  "mapping_version": "3.4.0",
+  "needs_manual_review_records": 0,
+  "records_dropped": 0,
+  "source_record_counts": {
+    "dbms": 52,
+    "jntuh": 103,
+    "python": 1015
+  },
+  "subjects_represented": [
+    "Database Management Systems",
+    "Operating Systems",
+    "Python Programming"
+  ],
+  "total_records_considered": 1170,
+  "unknown_records": 1149,
+  "validation_warnings": []
+}
