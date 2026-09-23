@@ -1,0 +1,40 @@
+{
+  "artifact_strategy": {
+    "source_of_truth": [
+      "scripts/build_embeddings.py",
+      "requirements.txt",
+      "data/chunks/chunks.jsonl",
+      "selected_model_and_revision"
+    ],
+    "vectors": "intentionally_ignored_reproducible_artifact"
+  },
+  "batch_size": 32,
+  "dependency_versions": {
+    "sentence-transformers": "5.1.1"
+  },
+  "device": "cpu",
+  "duplicate_embedding_ids": 0,
+  "embedding_dimension": 384,
+  "embedding_input_format": "context_text + two newline characters + content",
+  "embedding_input_hash_algorithm": "SHA-256",
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_model_revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
+  "embedding_normalized": true,
+  "embedding_strategy_version": "3.7.0",
+  "infinite_vectors": 0,
+  "invalid_vectors": 0,
+  "maximum_repeat_run_absolute_difference": 0.0,
+  "missing_embeddings": 0,
+  "nan_vectors": 0,
+  "normalization_validation": {
+    "maximum_absolute_difference_from_one": 1.2654518610766274e-07,
+    "maximum_norm": 1.000000126545186,
+    "minimum_norm": 0.9999999052643733
+  },
+  "python_version": "3.14.6",
+  "reproducibility_validation": "PASS",
+  "similarity_metric": "cosine",
+  "total_chunks_input": 1229,
+  "total_embeddings": 1229,
+  "validation_status": "PASS"
+}

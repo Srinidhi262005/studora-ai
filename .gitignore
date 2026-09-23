@@ -15,7 +15,9 @@ __pycache__/
 vectorstore/
 chroma/
 chroma_db/
-embeddings/
+# Embeddings are reproducible local artifacts generated from tracked chunks and
+# scripts/build_embeddings.py; keep vectors out of Git while tracking the audit report.
+data/embeddings/embeddings.jsonl
 
 # Local tooling and OS files
 .vscode/
