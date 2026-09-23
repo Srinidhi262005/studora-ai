@@ -1,0 +1,46 @@
+{
+  "normalization_version": "3.3.0",
+  "inputs": [
+    {
+      "input_file": "data\\extracted\\python_raw.jsonl",
+      "output_file": "data\\normalized\\python_normalized.jsonl",
+      "input_record_count": 1015,
+      "output_record_count": 1015,
+      "records_changed": 251,
+      "records_unchanged": 764,
+      "whitespace_changes": 251,
+      "structured_records_preserved": 28,
+      "validation_warnings": [],
+      "errors": []
+    },
+    {
+      "input_file": "data\\extracted\\dbms_raw.jsonl",
+      "output_file": "data\\normalized\\dbms_normalized.jsonl",
+      "input_record_count": 52,
+      "output_record_count": 52,
+      "records_changed": 25,
+      "records_unchanged": 27,
+      "whitespace_changes": 25,
+      "structured_records_preserved": 15,
+      "validation_warnings": [],
+      "errors": []
+    },
+    {
+      "input_file": "data\\extracted\\jntuh_raw.jsonl",
+      "output_file": "data\\normalized\\jntuh_normalized.jsonl",
+      "input_record_count": 103,
+      "output_record_count": 103,
+      "records_changed": 0,
+      "records_unchanged": 103,
+      "whitespace_changes": 0,
+      "structured_records_preserved": 33,
+      "validation_warnings": [],
+      "errors": []
+    }
+  ],
+  "total_input_record_count": 1170,
+  "total_output_record_count": 1170,
+  "total_records_changed": 276,
+  "total_records_unchanged": 894,
+  "total_records_dropped": 0
+}
