@@ -1,0 +1,37 @@
+{
+  "chunking_performed": false,
+  "content_integrity_validation": "PASS",
+  "deterministic_validation": "PASS",
+  "embeddings_created": false,
+  "knowledge_schema_version": "3.5.0",
+  "mapped_records": 21,
+  "needs_manual_review_records": 0,
+  "provenance_validation": "PASS",
+  "records_by_content_type": {
+    "code": 281,
+    "definition_list": 25,
+    "heading": 131,
+    "list": 17,
+    "p": 612,
+    "page_text": 70,
+    "table": 34
+  },
+  "records_by_subject": {
+    "Database Management Systems": 6,
+    "Operating Systems": 2,
+    "Python Programming": 13,
+    "UNKNOWN": 1149
+  },
+  "records_dropped": 0,
+  "source_record_counts": {
+    "dbms": 52,
+    "jntuh": 103,
+    "python": 1015
+  },
+  "total_records": 1170,
+  "traceability_validation": "PASS",
+  "unique_knowledge_ids": 1170,
+  "unknown_records": 1149,
+  "validation_status": "PASS",
+  "vector_database_created": false
+}
